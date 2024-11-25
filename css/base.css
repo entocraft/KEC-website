@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+*{
+    margin: 0;
+    scroll-snap-type: y mandatory;
+}
+
+header{
+    scroll-snap-align: start;
+    height: 80vh;
+    background-image: url(../imgs/header.jpg);
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    flex-direction: row;
+}
+
+ul {
+    width: 100%;
+    padding: 0;
+    display: flex;
+    color: rgb(0, 0, 0);
+    flex-direction: row;
+    margin: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+    text-decoration: none;
+    vertical-align: middle;
+    font-family: "Krona One", serif;
+    list-style: none;
+    margin: 0px 50px 0px 0px;
+}
+
+li img{
+    width: 7vw;
+}
+
+body {
+    background-color: #2B2B2B;
+    font-family: "Krona One", serif;
+    color: #ffffff;
+}
+
+section {
+    scroll-snap-align: start;
+    min-height: 100vh;
+}
+
+.now_info{
+    display: flex;
+    flex-direction: row;
+}
+
+.group1,
+.group2 {
+    width: 100%;
+    margin: 50px 0px;
+}
+
+.group1{
+    padding: 2em;
+    align-items: center;
+    vertical-align: middle;
+}
+
+img {
+    width: 50%;
+}
+
+.circuit_trace{
+    width: 90%;
+}
+
+.group2 {
+    border-top: 5px solid #00A99D;
+    border-left: 5px solid #00A99D;
+    border-top-left-radius: 30px;
+    padding: 2em;
+    display: flex;
+    flex-direction: row;
+}
+
+.group2 .lateral img {
+    width: 90px;
+}
+
+.group2 .lateral {
+    vertical-align: middle;
+    align-items: center;
+}
+
+.group2 .lateral h1{
+    margin-top: 1em;
+    writing-mode: vertical-rl;
+    font-size: 50px;
+}
+
+.tag_clock {
+    margin-top: 1em;
+}
+
+.group2 .content{
+    margin-left: 3em;
+    width: 90%;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    background-color: #3E3E3E;
+    border-radius: 30px;
+    margin-top: 2em;
+    width: 100%;
+    height: fit-content;
+}
+
+.info{
+    width: fit-content;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    border-right: 5px solid #4C4C4C;
+}
+
+.date{
+    padding: 20px;
+    background-color: #4C4C4C;
+    border-top-left-radius: 30px;
+    text-align: center;
+}
+
+.date h1{
+    font-size: 50px;
+}
+
+.selector{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.selector a{
+    padding: 20px;
+}
+
+.data{
+    padding: 15px;
+}
+
+.carroussel{
+    width: 100%;
+    background-color: #1B1B1B;
+    display: flex;
+    flex-direction: row;
+}
+
+.race_card{
+    width: 18vw;
+    vertical-align: middle;
+    align-items: center;
+    text-align: center;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
+}
+
+#active{
+    width: 28vw;
+    vertical-align: middle;
+    align-items: center; 
+    margin-top: 2.3vw;
+    margin-bottom: 2.3vw;
+}
+
+#active img{
+    display: block;
+    margin: 0px auto;
+    width: 12vw;
+    margin-bottom: 2.5vw;
+}
+
+.race_card img{
+    display: block;
+    margin: 0px auto;
+    width: 8vw;
+}
+
+.race_card h1{
+    font-size: 4vw;
+}
+
+.race_card h3{
+    font-size: 2vw;
+    color: #5a5a5a;
+}
+
+.race_card p{
+    font-size: 1.2vw;
+    color: #5a5a5a;
+}
+
+.race_card .race_name{
+    font-size: 1.5vw;
+    color: #ffffff;
+}
+
+.news_area{
+    padding: 2.5vw 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+.news_1,
+.news_2 {
+    padding: 2vw;
+    width: 100%;
+    margin: 50px 0px;
+}
+
+.news_1{
+    border-top: 5px solid #00A99D;
+    border-right: 5px solid #00A99D;
+    border-top-right-radius: 30px;
+}
+
+.news_1 h2{
+    font-size: 1.8vw;
+}
+
+.news_1 img{
+    width: 100%;
+}
+
+.news_2 .news_article{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1vw;
+}
+
+.news_2 .news_article h3{
+    font-size: 1vw;
+    margin-left: 1vw;
+}
+
+.news_2 .news_article img{
+    height: 12vw;
+    width: auto;
+}
+
+.sponsors{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2.5vw;
+    background-color: #1B1B1B;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sponsors img{
+    height: 4vw;
+    width: auto;
+    margin: 2vw;
+}
