@@ -24,7 +24,7 @@
         <link href="../css/base.css" rel="stylesheet">
         <link href="../css/clock.css" rel="stylesheet">
         <link href="../css/calendar.css" rel="stylesheet">
-        <link href="../css/table.css" rel="stylesheet">
+        <link href="../css/teams.css" rel="stylesheet">
     </head>
     <header>
             <nav>
@@ -44,8 +44,8 @@
                 if (!empty($data)):  // Si des équipes sont trouvées
                     foreach ($data as $team):  // Parcours des équipes du pays
                         echo "<div class='equipe'>";
-                            echo "<h2>" . htmlspecialchars($team['Description']) . "</h2>";
                             echo "<img src='" . htmlspecialchars($team['Chemin_logo']) . "' alt='Logo " . htmlspecialchars($team['Description']) . "' />";
+                            echo "<h2>" . htmlspecialchars($team['Description']) . "</h2>";
                             echo "<p>Manager: " . htmlspecialchars($team['Manager']) . "</p>";
                             echo "<p>Numéros de kart: " . implode(', ', $team['Numéro_de_kart']) . "</p>";
                         echo "</div>";

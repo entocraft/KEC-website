@@ -1,0 +1,10 @@
+.equipe{
+    width: 30vw;
+    margin: 1vw 1.3vw;
+    border-top: 5px solid #4C4C4C;
+    border-right: 5px solid #4C4C4C;
+    border-bottom: 5px solid #4C4C4C;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    min-height: 10vw;
+}
