@@ -1,0 +1,888 @@
+{
+    "Liste_equipe" : {
+
+        "PT" : {
+            "PS&A-ADVOGADOS" : {
+                "Pays" : "Portugal",
+                "Chemin_logo" : "pays/equipe/PS&A-ADVOGADOS",
+                "Numéro_de_kart" : [8],
+                "Description" : "Equipe portugaise qui se constitue de 4 personnes ayant un niveau pro ",
+                "Manager" : "SOARES_PEDRO"
+            },
+
+            "Track_Limits_Sport" : {
+                "Pays" : "Portugal",
+                "Chemin_logo" : "pays/equipe/Track_Limits_sport",
+                "Numéro_de_kart" : [16,18,40],
+                "Description" : "Equipe portugaise qui se constitue de 9 personnes ayant un niveau pro ",
+                "Manager" : "Pires_José"
+            },
+
+            "Asphalt_Knights" : {
+                "Pays" : "Portugal",
+                "Chemin_logo" : "pays/equipe/Asphalt_Knights",
+                "Numéro_de_kart" : [4,2,42],
+                "Description" : "Equipe portugaise qui se constitue de 9 personnes ayant un niveau pro ",
+                "Manager" : "Paiva_João_Diogo "
+            },
+
+            "WARM-UP_PRO_RACING_TEAM" : {
+                "Pays" : "Portugal",
+                "Chemin_logo" : "pays/equipe/WARMUP",
+                "Numéro_de_kart" : [10,6],
+                "Description" : "Equipe portugaise qui se constitue de 6 personnes ayant un niveau pro ",
+                "Manager" : "Ribeiro_Ricardo"
+            },
+
+            "MATRAX_RACING" : {
+                "Pays" : "Portugal",
+                "Chemin_logo" : "pays/equipe/MATRAX_RACING",
+                "Numéro_de_kart" : [22,12,48],
+                "Description" : "Equipe portugaise qui se constitue de 7 personnes ayant un niveau pro ",
+                "Manager" : "Lopes_Duarte"
+            },
+
+            "P.R.T." : {
+                "Pays" : "Portugal",
+                "Chemin_logo" : "pays/equipe/PRT",
+                "Numéro_de_kart" : [28],
+                "Description" : "Equipe portugaise qui se constitue de 5 personnes ayant un niveau pro ",
+                "Manager" : "Gomes_Helder"
+            },
+
+            "S-Kart_Clube_by_AuriolSport" : {
+                "Pays" : "Portugal",
+                "Chemin_logo" : "pays/equipe/SKC",
+                "Numéro_de_kart" : [14,30,34],
+                "Description" : "Equipe portugaise qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Lopes_Nuno"
+            },
+
+            "TYRESONLINE" : {
+                "Pays" : "Portugal",
+                "Chemin_logo" : "pays/equipe/TYRESONLINE",
+                "Numéro_de_kart" : [32,26,38],
+                "Description" : "Equipe portugaise qui se constitue de 9 personnes ayant un niveau pro ",
+                "Manager" : "Lopes_Duarte"
+            },
+
+            "Kmed_Europa_Endurance" : {
+                "Pays" : "Portugal",
+                "Chemin_logo" : "pays/equipe/KMED",
+                "Numéro_de_kart" : [24,20],
+                "Description" : "Equipe portugaise qui se constitue de 6 personnes ayant un niveau pro ",
+                "Manager" : "Paço_Filipe"
+            },
+
+            "Racing_Aces" : {
+                "Pays" : "Portugal",
+                "Chemin_logo" : "pays/equipe/Racing_Aces",
+                "Numéro_de_kart" : [36,44,46],
+                "Description" : "Equipe portugaise qui se constitue de 8 personnes ayant un niveau pro ",
+                "Manager" : "Patricio_Miguel"
+            }
+        },
+
+
+
+
+
+
+
+
+
+        "SP" : {
+            "CREATIA_ENDURANCE_TEAM" : {
+                "Pays" : "Espagne",
+                "Chemin_logo" : "pays/equipe/Creatia",
+                "Numéro_de_kart" : [1,21,47],
+                "Description" : "Equipe espagnol qui se constitue de 9 personnes ayant un niveau pro ",
+                "Manager" : "VAZQUEZ_JOSE_LUIS"
+            },
+            
+            "Endurance_Racing_Team" : {
+                "Pays" : "Espagne",
+                "Chemin_logo" : "pays/equipe/ERT",
+                "Numéro_de_kart" : [3,23],
+                "Description" : "Equipe espagnol qui se constitue de 8 personnes ayant un niveau pro ",
+                "Manager" : "Pujol_Albareda_Jordi"
+            },
+
+            "EQUIP_OPEN-ERT" : {
+                "Pays" : "Espagne",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [5],
+                "Description" : "Equipe espagnol qui se constitue de 5 personnes ayant un niveau pro ",
+                "Manager" : "NOGUERA_PLANS_Ivan"
+            },
+
+            "LMKC_Endurance" : {
+                "Pays" : "Espagne",
+                "Chemin_logo" : "pays/equipe/LMKc_endurance" ,
+                "Numéro_de_kart" : [7,25],
+                "Description" : "Equipe espagnol qui se constitue de 8 personnes ayant un niveau pro ",
+                "Manager" : "Burillo_Jose"
+            },
+
+            "RODEX" : {
+                "Pays" : "Espagne",
+                "Chemin_logo" : "pays/equipe/RODEX",
+                "Numéro_de_kart" : [9,27,49],
+                "Description" : "Equipe espagnol qui se constitue de 9 personnes ayant un niveau pro ",
+                "Manager" : "Araujo_Castro_Miguel"
+            },
+
+            "Astur_Celta_Racing_Team" : {
+                "Pays" : "Espagne",
+                "Chemin_logo" : "pays/equipe/ACRT",
+                "Numéro_de_kart" : [11,31],
+                "Description" : "Equipe espagnol qui se constitue de 9 personnes ayant un niveau pro ",
+                "Manager" : "Cernuda_Marcos"
+            },
+
+            "Escueladekart.com" : {
+                "Pays" : "Espagne",
+                "Chemin_logo" : "pays/equipe/Escueladekart",
+                "Numéro_de_kart" : [13,33],
+                "Description" : "Equipe espagnol qui se constitue de 6 personnes ayant un niveau pro ",
+                "Manager" : "Zamit_Fernando"
+            },
+
+            "JaramaFan_Racing" : {
+                "Pays" : "Espagne",
+                "Chemin_logo" : "pays/equipe/JaramaFan_Racing",
+                "Numéro_de_kart" : [15,35,41],
+                "Description" : "Equipe espagnol qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Martínez_Javier"
+            },
+
+            "Hispano_Alemán_Racing_Team" : {
+                "Pays" : "Espagne",
+                "Chemin_logo" : "pays/equipe/HART",
+                "Numéro_de_kart" : [17,37,43],
+                "Description" : "Equipe espagnol qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "GRUNDNER_HARALD"
+            },
+
+            "CKM_RENOVE" : {
+                "Pays" : "Espagne",
+                "Chemin_logo" : "pays/equipe/CKm_renove",
+                "Numéro_de_kart" : [19,39,45],
+                "Description" : "Equipe espagnol qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Juan_Jose_Calaveras"
+            }
+        },
+            
+
+
+
+
+
+
+
+
+        "FR" : {    
+            "Nogezm" : {
+                "Pays" : "France",
+                "Chemin logo" : "pays/equipe/",
+                "Numéro de kart" : [],
+                "Description" : "",
+                "Manager" : ""
+            },
+
+            "Nogm" : {
+                "Pays" : "France",
+                "Chemin logo" : "pays/equipe/",
+                "Numéro de kart" : [],
+                "Description" : "",
+                "Manager" : ""
+            },
+
+            "Nomg" : {
+                "Pays" : "France",
+                "Chemin logo" : "pays/equipe/",
+                "Numéro de kart" : [],
+                "Description" : "",
+                "Manager" : ""
+            },
+
+            "Nog(m" : {
+                "Pays" : "France",
+                "Chemin logo" : "pays/equipe/",
+                "Numéro de kart" : [],
+                "Description" : "",
+                "Manager" : ""
+            },
+
+            "Nomre" : {
+                "Pays" : "France",
+                "Chemin logo" : "pays/equipe/",
+                "Numéro de kart" : [],
+                "Description" : "",
+                "Manager" : ""
+            },
+
+            "Noerm" : {
+                "Pays" : "France",
+                "Chemin logo" : "pays/equipe/",
+                "Numéro de kart" : [],
+                "Description" : "",
+                "Manager" : ""
+            },
+
+            "Nhom" : {
+                "Pays" : "France",
+                "Chemin logo" : "pays/equipe/",
+                "Numéro de kart" : [],
+                "Description" : "",
+                "Manager" : ""
+            },
+
+            "Nohum" : {
+                "Pays" : "France",
+                "Chemin logo" : "pays/equipe/",
+                "Numéro de kart" : [],
+                "Description" : "",
+                "Manager" : ""
+            },
+
+            "Nqom" : {
+                "Pays" : "France",
+                "Chemin logo" : "pays/equipe/",
+                "Numéro de kart" : [],
+                "Description" : "",
+                "Manager" : ""
+            },
+
+            "Nom" : {
+                "Pays" : "France",
+                "Chemin logo" : "pays/equipe/",
+                "Numéro de kart" : [],
+                "Description" : "",
+                "Manager" : ""
+            }
+        },
+
+            
+
+            
+
+
+
+
+        "IT" : {
+            "PFV" : {
+                "Pays" : "Italie",
+                "Chemin_logo" : "pays/equipe/PFV",
+                "Numéro_de_kart" : [50,72,92],
+                "Description" : "Equipe italienne qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "BONAZZA_Manuel_Gianluca"
+            },
+
+            "INFINITY" : {
+                "Pays" : "Italie",
+                "Chemin_logo" : "pays/equipe/INFINITY",
+                "Numéro_de_kart" : [52,74,94],
+                "Description" : "Equipe italienne qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "BONAZZA_Manuel_Gianluca"
+            },
+
+            "RED_RACING" : {
+                "Pays" : "Italie",
+                "Chemin_logo" : "pays/equipe/RR",
+                "Numéro_de_kart" : [54,76,96],
+                "Description" : "Equipe italienne qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Galli_Umberto"
+            },
+
+            "RED_RACING_SPIRIT" : {
+                "Pays" : "Italie",
+                "Chemin_logo" : "pays/equipe/RRS",
+                "Numéro_de_kart" : [56,78,98],
+                "Description" : "Equipe italienne qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Galli_Umberto"
+            },
+
+            "SUNLIFE_RACING_TEAM" : {
+                "Pays" : "Italie",
+                "Chemin_logo" : "pays/equipe/SUNLIFE",
+                "Numéro_de_kart" : [58,80],
+                "Description" : "Equipe italienne qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Fistarol_Federico"
+            },
+
+            "DRGM-FAC" : {
+                "Pays" : "Italie",
+                "Chemin_logo" : "pays/equipe/DRGM",
+                "Numéro_de_kart" : [60,82],
+                "Description" : "Equipe italienne qui se constitue de 7 personnes ayant un niveau pro ",
+                "Manager" : "Gennari_Nicola"
+            },
+
+            "SMO_Racing_Team" : {
+                "Pays" : "Italie",
+                "Chemin_logo" : "pays/equipe/SMO",
+                "Numéro_de_kart" : [62,84],
+                "Description" : "Equipe italienne qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Ottini_Michele"
+            },
+
+            "JUST4FUN_RACING_TEAM" : {
+                "Pays" : "Italie",
+                "Chemin_logo" : "pays/equipe/JUST4FUN",
+                "Numéro_de_kart" : [64,86],
+                "Description" : "Equipe italienne qui se constitue de 6 personnes ayant un niveau pro ",
+                "Manager" : "Briosi_Roberta"
+            },
+
+            "NAC_Team" : {
+                "Pays" : "Italie",
+                "Chemin_logo" : "pays/equipe/NAC_team",
+                "Numéro_de_kart" : [68,88],
+                "Description" : "Equipe italienne qui se constitue de 6 personnes ayant un niveau pro ",
+                "Manager" : "Santi_Nicola"
+            },
+
+            "Dammuso-Dad&Son" : {
+                "Pays" : "Italie",
+                "Chemin_logo" : "pays/equipe/Dammuso",
+                "Numéro_de_kart" : [70,90],
+                "Description" : "Equipe italienne qui se constitue de 6 personnes ayant un niveau pro ",
+                "Manager" : "Truscello_Andrea"
+            }
+        },
+
+
+
+
+
+
+
+
+
+        "AU" : {
+            "Euroracing_ASD" : {
+                "Pays" : "Autriche",
+                "Chemin_logo" : "pays/equipe/ASD",
+                "Numéro_de_kart" : [51,71,89],
+                "Description" : "Equipe autrichienne qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Fistarol_Federico"
+            },
+
+            "KC_VORTEX" : {
+                "Pays" : "Autriche",
+                "Chemin_logo" : "pays/equipe/KC_VORTEX",
+                "Numéro_de_kart" : [53,73],
+                "Description" : "Equipe autrichienne qui se constitue de 6 personnes ayant un niveau pro ",
+                "Manager" : "Badawi_Abdi"
+            },
+
+            "Kurvenfresser_KRT" : {
+                "Pays" : "Autriche",
+                "Chemin_logo" : "pays/equipe/Kurvenfresser_KRT",
+                "Numéro_de_kart" : [55,75,91],
+                "Description" : "Equipe autrichienne qui se constitue de 8 personnes ayant un niveau pro ",
+                "Manager" : "Neidhart_Christian"
+            },
+
+            "Wesp_racing_team" : {
+                "Pays" : "Autriche",
+                "Chemin_logo" : "pays/equipe/WESP",
+                "Numéro_de_kart" : [57,77,93],
+                "Description" : "Equipe autrichienne qui se constitue de 8 personnes ayant un niveau semi-pro ",
+                "Manager" : "Wachtler_Raimund "
+            },
+
+            "Rubblemaster_Racing_Team" : {
+                "Pays" : "Autriche",
+                "Chemin_logo" : "pays/equipe/Rubblemaster",
+                "Numéro_de_kart" : [59,79],
+                "Description" : "Equipe autrichienne qui se constitue de 6 personnes ayant un niveau semi-pro ",
+                "Manager" : "Holzinger_Florian"
+            },
+
+            "Pontigoner_Racers" : {
+                "Pays" : "Autriche",
+                "Chemin_logo" : "pays/equipe/Pontigoner",
+                "Numéro_de_kart" : [61,81,95],
+                "Description" : "Equipe autrichienne qui se constitue de 8 personnes ayant un niveau semi-pro ",
+                "Manager" : "Hennermann_Marco"
+            },
+
+            "Porsche_RT" : {
+                "Pays" : "Autriche",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [63],
+                "Description" : "Equipe autrichienne qui se constitue de 4 personnes ayant un niveau semi-pro ",
+                "Manager" : "Taus_Thomas"
+            },
+
+            "MSC_GREEN_PHOENIX" : {
+                "Pays" : "Autriche",
+                "Chemin_logo" : "pays/equipe/MSC",
+                "Numéro_de_kart" : [65,83,97],
+                "Description" : "Equipe autrichienne qui se constitue de 8 personnes ayant un niveau semi-pro ",
+                "Manager" : "Zotter_Patrick"
+            },
+
+            "Racecraft_Academy" : {
+                "Pays" : "Autriche",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [67,85 ],
+                "Description" : "Equipe autrichienne qui se constitue de 8 personnes ayant un niveau semi-pro ",
+                "Manager" : "liegl_simon"
+            },
+
+            "Güllmanns_1" : {
+                "Pays" : "Autriche",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [69,87],
+                "Description" : "Equipe autrichienne qui se constitue de 8 personnes ayant un niveau semi-pro ",
+                "Manager" : "Madl_Florian"
+            }
+        },
+
+
+
+
+
+
+
+
+
+        "GE" : {
+            "Kart_Team_Wittlich" : {
+                "Pays" : "Allemagne",
+                "Chemin_logo" : "pays/equipe/KTW",
+                "Numéro_de_kart" : [1,15],
+                "Description" : "Equipe allemande qui se constitue de 8 personnes ayant un niveau pro ",
+                "Manager" : "Kleitz_Roberto"
+            },
+
+            "PF_Racing" : {
+                "Pays" : "Allemagne",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [11,25,34],
+                "Description" : "Equipe allemande qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Teusch_Philipp"
+            },
+
+            "KRS-Green_Competition" : {
+                "Pays" : "Allemagne",
+                "Chemin_logo" : "pays/equipe/KRS",
+                "Numéro_de_kart" : [21,5,50],
+                "Description" : "Equipe allemande qui se constitue de 9 personnes ayant un niveau pro ",
+                "Manager" : "Braun_Rolf"
+            },
+
+            "Cockpit-Kartarena_RT" : {
+                "Pays" : "Allemagne",
+                "Chemin_logo" : "pays/equipe/Cockpit-Kartarena_RT",
+                "Numéro_de_kart" : [31,45],
+                "Description" : "Equipe allemande qui se constitue de 8 personnes ayant un niveau pro ",
+                "Manager" : "Bäumer_Yannick"
+            },
+
+            "Team_TKR" : {
+                "Pays" : "Allemagne",
+                "Chemin_logo" : "pays/equipe/TKR",
+                "Numéro_de_kart" : [41,85,8],
+                "Description" : "Equipe allemande qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Christ_Marc"
+            },
+
+            "1UP_Cool_Runners" : {
+                "Pays" : "Allemagne",
+                "Chemin_logo" : "pays/equipe/1UP_Cool_Runners",
+                "Numéro_de_kart" : [51,75],
+                "Description" : "Equipe allemande qui se constitue de 6 personnes ayant un niveau pro ",
+                "Manager" : "Höller_Dennis "
+            },
+
+            "NoFear_by_KRS" : {
+                "Pays" : "Allemagne",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [61,65],
+                "Description" : "Equipe allemande qui se constitue de 6 personnes ayant un niveau pro ",
+                "Manager" : "Duckers_Nils"
+            },
+
+            "Underground_Racing_by_CKA" : {
+                "Pays" : "Allemagne",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [71,95],
+                "Description" : "Equipe allemande qui se constitue de 5 personnes ayant un niveau pro ",
+                "Manager" : "Brkljačić_Adrijan"
+            },
+
+            "DBR_Racing_Germany" : {
+                "Pays" : "Allemagne",
+                "Chemin_logo" : "pays/equipe/DBR",
+                "Numéro_de_kart" : [81,55],
+                "Description" : "Equipe allemande qui se constitue de 6 personnes ayant un niveau pro ",
+                "Manager" : "Brehm_Marco"
+            },
+
+
+            "Kartclub-NRW_by_BMW_Riedel" : {
+                "Pays" : "Allemagne",
+                "Chemin_logo" : "pays/equipe/Kartclub-NRW",
+                "Numéro_de_kart" : [91,15,88],
+                "Description" : "Equipe allemande qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Tyca_Jan"
+            }
+        },
+
+
+
+
+
+
+
+
+        "BE" : {
+            "Modave_Racing" : {
+                "Pays" : "Belgique",
+                "Chemin_logo" : "pays/equipe/modave_racing",
+                "Numéro_de_kart" : [2,50],
+                "Description" : "Equipe belge qui se constitue de 5 personnes ayant un niveau pro ",
+                "Manager" : "MODAVE_Anthony"
+
+            },
+
+            "BlueStar_Racing_Team" : {
+                "Pays" : "Belgique",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [3,16,25],
+                "Description" : "Equipe belge qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Laporte_Gregory"
+
+            },
+
+            "KMRS_by_SKOF" : {
+                "Pays" : "Belgique",
+                "Chemin_logo" : "pays/equipe/KMRS_by_SKOF",
+                "Numéro_de_kart" : [4,17,15],
+                "Description" : "Equipe belge qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "SKOF_Tom"
+
+            },
+
+            "KMRS_RACING" : {
+                "Pays" : "Belgique",
+                "Chemin_logo" : "pays/equipe/KRMS_Racing",
+                "Numéro_de_kart" : [5,18,14],
+                "Description" : "Equipe belge qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : " URBANI_Luca"
+
+            },
+
+            "JYN-Sports_1" : {
+                "Pays" : "Belgique",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [6,19],
+                "Description" : "Equipe belge qui se constitue de 6 personnes ayant un niveau pro ",
+                "Manager" : "Dujardin_Pierre"
+
+            },
+
+            "Acuity_racing_1" : {
+                "Pays" : "Belgique",
+                "Chemin_logo" : "pays/equipe/Acuity_racing",
+                "Numéro_de_kart" : [7,70],
+                "Description" : "Equipe belge qui se constitue de 4 personnes ayant un niveau pro ",
+                "Manager" : "Vanschoonwinkel_Sebastiaan"
+
+            },
+
+            "B.R.T-Belgium_Racing_Team" : {
+                "Pays" : "Belgique",
+                "Chemin_logo" : "pays/equipe/BRT",
+                "Numéro_de_kart" : [8,60],
+                "Description" : "Equipe belge qui se constitue de 4 personnes ayant un niveau pro ",
+                "Manager" : "BEX_Michael"
+
+            },
+
+            "Hola_Lulu_Racing" : {
+                "Pays" : "Belgique",
+                "Chemin_logo" : "pays/equipe/Hola_Lulu_Racing",
+                "Numéro_de_kart" : [9,20],
+                "Description" : "Equipe belge qui se constitue de 7 personnes ayant un niveau pro ",
+                "Manager" : "De_Wolf_Dylan"
+
+            },
+
+            "BF_Motorsport_by_JMB_Matrassen" : {
+                "Pays" : "Belgique",
+                "Chemin_logo" : "pays/equipe/BF_motorsport",
+                "Numéro_de_kart" : [10,21,24 ],
+                "Description" : "Equipe belge qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "Schoonbrood_Koen"
+
+            },
+
+            "Panthaa_Racing_by_Jovatechnics" : {
+                "Pays" : "Belgique",
+                "Chemin_logo" : "pays/equipe/Panthaa_racing",
+                "Numéro_de_kart" : [11,42],
+                "Description" : "Equipe belge qui se constitue de 5 personnes ayant un niveau pro ",
+                "Manager" : "Eben_Joshua"
+            }
+        },
+
+
+
+
+
+
+
+
+
+        "NE" : {
+            "SKOF_by_KMRS" : {
+                "Pays" : "Pays_Bas",
+                "Chemin_logo" : "pays/equipe/SKOF_by_KMRS",
+                "Numéro_de_kart" : [99,88,77,18],
+                "Description" : "Equipe neerlandaise qui se constitue de 10 personnes ayant un niveau pro ",
+                "Manager" : "SKOF_Tom"
+            },
+
+            "Friendly_Competition" : {
+                "Pays" : "Pays_Bas",
+                "Chemin_logo" : "pays/equipe/Friendly_Competition",
+                "Numéro_de_kart" : [66,55,80],
+                "Description" : "Equipe neerlandaise qui se constitue de 4 personnes ayant un niveau pro ",
+                "Manager" : "van_der_Woude_Alexander"
+            },
+
+            "KWM_Racing" : {
+                "Pays" : "Pays_Bas",
+                "Chemin_logo" : "pays/equipe/KWM",
+                "Numéro_de_kart" : [44,43],
+                "Description" : "Equipe neerlandaise qui se constitue de 3 personnes ayant un niveau pro ",
+                "Manager" : "VAN_RENSSEN_MATHIEU"
+            },
+
+            "apex_racing_team_1" : {
+                "Pays" : "Pays_Bas",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [33,67],
+                "Description" : "Equipe neerlandaise qui se constitue de 3 personnes ayant un niveau pro ",
+                "Manager" : "hol_Collin"
+            },
+
+            "RTJ_Racing" : {
+                "Pays" : "Pays_Bas",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [22,35],
+                "Description" : "Equipe neerlandaise qui se constitue de 3 personnes ayant un niveau pro ",
+                "Manager" : "Witteveen_Ramon"
+            },
+
+            "Camber_MotorSport" : {
+                "Pays" : "Pays_Bas",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [11,23],
+                "Description" : "Equipe neerlandaise qui se constitue de 3 personnes ayant un niveau pro ",
+                "Manager" : "Klein_Reesink_Colin"
+            },
+
+            "Den_Hartog_Racing" : {
+                "Pays" : "Pays_Bas",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [4,84],
+                "Description" : "Equipe neerlandaise qui se constitue de 3 personnes ayant un niveau pro ",
+                "Manager" : "de_Mooij_Tycho"
+            },
+
+            "RGXC_Racing" : {
+                "Pays" : "Pays_Bas",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [29,5],
+                "Description" : "Equipe neerlandaise qui se constitue de 3 personnes ayant un niveau pro ",
+                "Manager" : "Dykmans_Maxime"
+            },
+
+            "SALARI_RT" : {
+                "Pays" : "Pays_Bas",
+                "Chemin_logo" : "pays/equipe/SALARI_RT",
+                "Numéro_de_kart" : [36,12],
+                "Description" : "Equipe neerlandaise qui se constitue de 3 personnes ayant un niveau pro ",
+                "Manager" : "Tranquilli_Maria"
+            },
+
+            "Unfriendly_Competition" : {
+                "Pays" : "Pays_Bas",
+                "Chemin_logo" : "pays/equipe/Unfriendly_Competition",
+                "Numéro_de_kart" : [57,31,69],
+                "Description" : "Equipe neerlandaise qui se constitue de 4 personnes ayant un niveau pro ",
+                "Manager" : "van_der_Woude_Alexander"
+            }
+        },
+            
+
+
+
+
+
+
+
+
+        "SW" : {
+            "Celeste_Digital_Racing" : {
+                "Pays" : "Suede",
+                "Chemin_logo" : "pays/equipe/CDR",
+                "Numéro_de_kart" : [1,9,17],
+                "Description" : "Equipe suedoise qui se constitue de 4 personnes ayant un niveau pro ",
+                "Manager" : "Neghabian_Mahras"
+            },
+
+            "Kong_Strong_Racing_Team" : {
+                "Pays" : "Suede",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [2,10,18,24],
+                "Description" : "Equipe suedoise qui se constitue de 5 personnes ayant un niveau semi-pro ",
+                "Manager" : "Lindelöf_Jonathan"
+            },
+
+            "VOKER" : {
+                "Pays" : "Suede",
+                "Chemin_logo" : "pays/equipe/VOKER",
+                "Numéro_de_kart" : [3,11,19],
+                "Description" : "Equipe suedoise qui se constitue de 4 personnes ayant un niveau rookie ",
+                "Manager" : "Berg_Gustaf"
+            },
+
+            "VMD_Down_Racing" : {
+                "Pays" : "Suede",
+                "Chemin_logo" : "pays/equipe/VMD",
+                "Numéro_de_kart" : [4,12],
+                "Description" : "Equipe suedoise qui se constitue de 3 personnes ayant un niveau rookie ",
+                "Manager" : "Mattsson Axe"
+            },
+
+            "Trocadero_AVANTI_Racing_w/_Mr" : {
+                "Pays" : "Suede",
+                "Chemin_logo" : "pays/equipe/AVANTI",
+                "Numéro_de_kart" : [5,13],
+                "Description" : "Equipe suedoise qui se constitue de 3 personnes ayant un niveau rookie ",
+                "Manager" : "Persson_Filip"
+            },
+
+            "Snail_Slugs" : {
+                "Pays" : "Suede",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [6,14],
+                "Description" : "Equipe suedoise qui se constitue de 3 personnes ayant un niveau rookie ",
+                "Manager" : "Rådberg_Viktor"
+            },
+
+            "Road_To_Glory" : {
+                "Pays" : "Suede",
+                "Chemin_logo" : "pays/equipe/RTD",
+                "Numéro_de_kart" : [7,15,20,22],
+                "Description" : "Equipe suedoise qui se constitue de 6 personnes ayant un niveau rookie ",
+                "Manager" : "Rexmo Ma"
+            },
+
+            "Team_Ek_Motorsport" : {
+                "Pays" : "Suede",
+                "Chemin_logo" : "pays/equipe/Ek_Motorsport",
+                "Numéro_de_kart" : [8,16,21,23],
+                "Description" : "Equipe suedoise qui se constitue de 5 personnes ayant un niveau rookie ",
+                "Manager" : "Ek_Magnus"
+            }
+        },
+
+
+
+
+
+
+
+
+
+        "FI" : {
+            "KIC_Driver_Academy" : {
+                "Pays" : "Finlande",
+                "Chemin_logo" : "pays/equipe/KIC",
+                "Numéro_de_kart" : [25,35,44],
+                "Description" : "Equipe finlandaise qui se constitue de 7 personnes ayant un niveau pro ",
+                "Manager" : "Lappalainen_Joonas"
+            },
+
+            "KKWCS" : {
+                "Pays" : "Finlande",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [26,36,45],
+                "Description" : "Equipe finlandaise qui se constitue de 7 personnes ayant un niveau pro ",
+                "Manager" : "KOUVONEN_Toni"
+            },
+
+            "JetStream" : {
+                "Pays" : "Finlande",
+                "Chemin_logo" : "pays/equipe/JetStream",
+                "Numéro_de_kart" : [27],
+                "Description" : "Equipe finlandaise qui se constitue de 3 personnes ayant un niveau pro ",
+                "Manager" : "GOROHOVCEV_Jegor"
+            },
+
+            "V-Team" : {
+                "Pays" : "Finlande",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [28,37,46],
+                "Description" : "Equipe finlandaise qui se constitue de 9 personnes ayant un niveau pro ",
+                "Manager" : "NYBERG_Peter"
+            },
+
+            "777RR_MOTORSPORT" : {
+                "Pays" : "Finlande",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [29,38,48],
+                "Description" : "Equipe finlandaise qui se constitue de 5 personnes ayant un niveau semi-pro ",
+                "Manager" : "Saarijärvi_Anssi"
+            },
+
+            "M.Y._Racing" : {
+                "Pays" : "Finlande",
+                "Chemin_logo" : "pays/equipe/M.Y._Racing",
+                "Numéro_de_kart" : [30,39,47],
+                "Description" : "Equipe finlandaise qui se constitue de 9 personnes ayant un niveau semi-pro ",
+                "Manager" : "Ylis-Junttila_Marku"
+            },
+
+            "KIC_Turku_RED" : {
+                "Pays" : "Finlande",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [31,40],
+                "Description" : "Equipe finlandaise qui se constitue de 5 personnes ayant un niveau rookie ",
+                "Manager" : "Makila_Henri"
+            },
+
+            "Captain_Slow_(V-Racing_2)" : {
+                "Pays" : "Finlande",
+                "Chemin_logo" : "pays/equipe/unknow",
+                "Numéro_de_kart" : [32,41],
+                "Description" : "Equipe finlandaise qui se constitue de 5 personnes ayant un niveau rookie ",
+                "Manager" : "Kolehmainen_Vilho"
+            },
+
+            "NANO_Racing_Team" : {
+                "Pays" : "Finlande",
+                "Chemin_logo" : "pays/equipe/NANO",
+                "Numéro_de_kart" : [33],
+                "Description" : "Equipe finlandaise qui se constitue de 3 personnes ayant un niveau rookie ",
+                "Manager" : "Klevtsov_Juri"
+            },
+
+            "NRG_MAXIMUS" : {
+                "Pays" : "Finlande",
+                "Chemin_logo" : "pays/equipe/NRG",
+                "Numéro_de_kart" : [34,42,43],
+                "Description" : "Equipe finlandaise qui se constitue de 10 personnes ayant un niveau rookie ",
+                "Manager" : "Samoshkin_Oleg"
+            }
+        }
+    }   
+}

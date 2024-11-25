@@ -1,71 +1,71 @@
 {
-    "Circuit_portugal" : {  
+    "PT" : {  
         "Localisation" : "Portugal,_Algarve,_Monchique",
         "Taille" : "1600m",
         "Virage" : "13",
-        "chemin_image" : "pays/cicuit/portugal"
+        "chemin_image" : "../imgs/pays/cicuit/PT.png"
     },
 
-    "Circuit_espagne" : {  
+    "SP" : {  
         "Localisation" : "Espagne,_Asturies,_Llanera",
         "Taille" : "1800m",
         "Virage" : "16",
-        "chemin_image" : "pays/cicuit/espagne"
+        "chemin_image" : "../imgs/pays/circuit/SP.png"
     },
 
-    "Circuit_france" : {  
+    "FR" : {  
         "Localisation" : "France,_Occitanie,_Muret",
         "Taille" : "2140m",
         "Virage" : "23",
-        "chemin_image" : "pays/cicuit/france"
+        "chemin_image" : "../imgs/pays/circuit/FR.png"
     },
 
-    "Circuit_italien" : {  
+    "IT" : {  
         "Localisation" : "Italie,_Campanie,_Sano",
         "Taille" : "1660m",
         "Virage" : "11",
-        "chemin_image" : "pays/cicuit/italie"
+        "chemin_image" : "../imgs/pays/circuit/IT.png"
     },
 
-    "Circuit_autriche" : {  
+    "AU" : {  
         "Localisation" : "Autriche,_Styrie,_Greinbach",
         "Taille" : "1450m",
         "Virage" : "17",
-        "chemin_image" : "pays/cicuit/autriche"
+        "chemin_image" : "../imgs/pays/circuit/AU.png"
     },
 
-    "Circuit_allemagne" : {  
+    "GE" : {  
         "Localisation" : "Allemagne,_Brandebourg,_Niedergörsdorf",
         "Taille" : "1340m",
         "Virage" : "19",
-        "chemin_image" : "pays/cicuit/allemagne"
+        "chemin_image" : "../imgs/pays/circuit/GE.png"
     },
 
-    "Circuit_belgique" : {  
+    "BE" : {  
         "Localisation" : "Belgique,_Limbourg,_Genk",
         "Taille" : "1366m",
         "Virage" : "15",
-        "chemin_image" : "pays/cicuit/belgique"
+        "chemin_image" : "../imgs/pays/circuit/BE.png"
     },
 
-    "Circuit_pays-bas" : {  
+    "NE" : {  
         "Localisation" : "Pays-Bas,_Flevoland,_Lelystad",
         "Taille" : "720m",
         "Virage" : "14",
-        "chemin_image" : "pays/cicuit/pays-bas"
+        "chemin_image" : "../imgs/pays/circuit/NE.png"
     },
 
-    "Circuit_suede" : {  
+    "SW" : {  
         "Localisation" : "Suede,_Dalécarlie,_Rättvik",
         "Taille" : "1240m",
         "Virage" : "18",
-        "chemin_image" : "pays/cicuit/suede"
+        "chemin_image" : "../imgs/pays/circuit/SW.png"
     },
 
-    "Circuit_finlande" : {  
+    "FI" : {  
         "Localisation" : "Finlande,_Uusimaa,_Vantaa",
         "Taille" : "1345m",
         "Virage" : "12 ",
-        "chemin_image" : "pays/cicuit/finlande"
+        "chemin_image" : "../imgs/pays/circuit/FI.png"
     }
 }

@@ -34,15 +34,28 @@ ul {
 }
 
 li {
-    text-decoration: none;
     vertical-align: middle;
     font-family: "Krona One", serif;
     list-style: none;
     margin: 0px 50px 0px 0px;
 }
 
+.active a{
+    background-color: #00A99D;
+    color: #ffffff;
+    font-family: "Krona One", serif;
+    padding: 5px 10px;
+    border-radius: 50px;
+}
+
 li img{
     width: 7vw;
+}
+
+li a{
+    text-decoration: none;
+    color: #2B2B2B;
+    padding: 5px 10px;
 }
 
 body {
