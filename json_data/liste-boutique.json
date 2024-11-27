@@ -1,0 +1,134 @@
+{
+    "Boutique" : {
+
+
+        "Vêtements" : {
+            "t-shirt_blanc" : {
+            "Description" : "T-shirt blanc avec comme motif imprimé le logo du KEC sur la poitrine, et un design de karting dans le dos.",
+            "Composition" : "100% coton",
+            "Taille" : ["XS","S","M","L","XL","XLL"],
+            "Nb_exemplaire" : [500,500,500,500,500,500],
+            "Prix" : "50,55€",
+            "Chemin_photo" : "../imgs/shop/t_bc_a.png",
+            "Chemin_photo_avant" : "../imgs/shop/t_bc_a.png",
+            "Chemin_photo_arrière" : "../imgs/shop/T_bc_d.png"
+            },
+
+            "t-shirt_bleu" :{
+               "Description" : "T-shirt bleu avec comme motif imprimé le logo du KEC sur la poitrine, et un design de kart dans le dos",
+               "Composition" : "100% coton",
+               "Taille" : ["XS","S","M","L","XL","XLL"],
+                "Nb_exemplaire" : [500,500,500,500,500,500],
+                "Prix" : "50,55€",
+                "Chemin_photo" : "../imgs/shop/t_bleu_a.png",
+                "Chemin_photo_avant" : "../imgs/shop/t_bleu_a.png",
+                "Chemin_photo_arrière" : "../imgs/shop/t_bleu_d.png"
+            },
+
+            "t-shirt_noir":  {
+                "Description" : "T-shirt noir avec comme motif imprimé le logo du KEC sur la poitrine, et un design de kart dans le dos",
+                "Composition" : "100% coton",
+                "Taille" : ["XS","S","M","L","XL","XLL"],
+                "Nb_exemplaire" : [500,500,500,500,500,500],
+                "Prix" : "50,55€",
+                "Chemin_photo" : "../imgs/shop/t_n_a.png",
+                "Chemin_photo_avant" : "../imgs/shop/t_n_a.png",
+                "Chemin_photo_arrière" : "../imgs/shop/t_n_d.png"
+            },
+
+            "Sweat_à_capuche":  {
+                "Description" : "Sweat à capuche noir avec comme motif imprimé le logo du KEC sur la poitrine, et un design de kart dans le dos",
+                "Composition" : "100% coton",
+                "Taille" : ["XS","S","M","L","XL","XLL"],
+                "Nb_exemplaire" : [500,500,500,500,500,500],
+                "Prix" : "95,05€",
+                "Chemin_photo" : "../imgs/shop/pull_a.png",
+                "Chemin_photo_avant" : "../imgs/shop/pull_a.png",
+                "Chemin_photo_arrière" : "../imgs/shop/pull_d.png"
+            }
+        },
+        
+
+
+
+        "Accessoires" : {
+
+            "casquette_n":  {
+                "Description" : "Casquette noire avec un motif imprimé",
+                "Composition" : "100% coton",
+                "Nb_exemplaire" : [1000],
+                "Prix" : "15€",               
+                "Chemin_photo" : "../imgs/shop/c_n.png"
+            },
+
+            "casquette_b":  {
+                "Description" : "Casquette blanche avec un motif imprimé",
+                "Composition" : "100% coton",
+                "Nb_exemplaire" : [1000],
+                "Prix" : "15€",
+                "Chemin_photo" : "../imgs/shop/c_b.png"
+            },
+
+            "bob":  {
+                "Description" : "Bob blanc sans lanière avec un motif imprimé",
+                "Composition" : "100% coton",
+                "Nb_exemplaire" : [755],
+                "Prix" : "35€",
+                "Chemin_photo" : "../imgs/shop/bob.png"
+            },
+            
+            
+            "Gourde":  {
+                "Description" : "Gourde en plastique souple de 1L avec le logo KEC",
+                "Composition" : "plastique",
+                "Nb_exemplaire" : [2550],
+                "Prix" : "10€",
+                "Chemin_photo" : "../imgs/shop/gourde.png"
+            },
+
+            "Tasse":  {
+                "Description" : "Tasse en céramique peinte avec le logo KEC",
+                "Composition" : "céramique",
+                "Nb_exemplaire" : [2550],
+                "Prix" : "5€",
+                "Chemin_photo" : "../imgs/shop/tasse.png"
+            }
+
+        },
+
+
+
+
+
+        "Equipements" : {
+            "Casque":  {
+                "Description" : "Ce casque R5 SF est extrêmement léger et résistant, ilpossède une visière anti-buée et de multiples aérations faisant de lui l'outil indispensable que le pilote doit avoir dans son équipement ! Basé sur le design innovant du HP7, la coque et la visière de ce casque ont été optimisés afin d'améliorer au maximum les capacités aérodynamiques tout en réduisant les bruits parasites à l'intérieur du casque. Ce casque est doté de clips HANS®. Homologation: Snell SA2020 - FIA 8859-2015",
+                "Composition" : "Fibre de carbone",
+                "Taille" : ["XS","S","M","L","XL","XLL"],
+                "Nb_exemplaire" : [100,100,100,100,100,100],
+                "Prix" : "845€",
+                "Chemin_photo" : "../imgs/shop/casque.png"
+            },
+
+            "Combinaison":  {
+                "Description" : "Légèreté et look à l'éfigie de KEC sont les particularités de cette combinaison Sparco One qui regroupe en plus des motifs imprimés et brodés des partenaires de la compétition. Pour le confort, cette combinaison possède une bande élastique dans la zone lombaire et un tissu Velcro® permet un meilleur réglage et maintient des chevilles pour un confort de conduite exceptionnel. Une ceinture insérée dans les hanches permet de régler la combinaison à la taille que vous souhaitez pour ne pas être gêné pendant la conduite. Enfin, des poches dissimulées sur les côtés des hanches vous permet de conserver à portée de main votre téléphone par exemple. Homologation: SFI 3.2A/1 et FIA 8856-2018",
+                "Composition" : "55% méta-aramide, 45% modacrylique",
+                "Taille" : ["XS","S","M","L","XL","XLL"],
+                "Nb_exemplaire" : [100,100,100,100,100,100],
+                "Prix" : "469€",
+                "Chemin_photo" : "../imgs/shop/combi.png"
+            },
+
+            "Gants":  {
+                "Description" : "Ces gants italien Sparco ont un design repensé pour un look plus racing et moderne mais bénéficiant toujours des technologies de pointe comme le Touch-S sur l'index et le pouce permettant une meilleure sensibilité. Homologation: FIA 8856-2018 et SFI 3.3/5",
+                "Composition" : "HTX D Volcano pour les paumes et tissu jersey aramide",
+                "Taille" : ["XS","S","M","L","XL","XLL"],
+                "Nb_exemplaire" : [100,100,100,100,100,100],
+                "Prix" : "149€",
+                "Chemin_photo" : "../imgs/shop/gants.png"
+            }
+
+        }
+        
+    }
+}

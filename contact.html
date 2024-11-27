@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Karting Endurance Championship</title>
+        <link href="css/base.css" rel="stylesheet">
+        <link href="css/contact.css" rel="stylesheet">
+    </head>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html"><img src="imgs/kec_logo.png"></a></li>
+                <li><a href="calendar.html">CALENDAR</a></li>
+                <li><a href="newsroom.html">NEWSROOM</a></li>
+                <li><a href="php/ticketing.php">TICKETING</a></li>
+                <li><a href="php/shop.php">SHOP</a></li>
+            </ul>
+        </nav>
+    </header>
+    <body>
+        <div class="contact-form-container">
+            <h1>Contactez-nous</h1>
+            <form action="php/contact.php" method="POST" class="contact-form">
+                <!-- Adresse email -->
+                <label for="email">Adresse email :</label>
+                <input type="email" id="email" name="email" placeholder="Votre adresse email" required>
+                
+                <!-- Sélection du sujet -->
+                <label for="subject">Sujet :</label>
+                <select id="subject" name="subject" required>
+                    <option value="">-- Choisissez un sujet --</option>
+                    <option value="question">Question</option>
+                    <option value="partnership">Partenariat</option>
+                    <option value="problem">Problème</option>
+                    <option value="other">Autre</option>
+                </select>
+                
+                <!-- Objet du mail -->
+                <label for="title">Objet :</label>
+                <input type="text" id="title" name="title" placeholder="Objet du message" required>
+                
+                <!-- Contenu du message -->
+                <label for="message">Message :</label>
+                <textarea id="message" name="message" placeholder="Votre message..." rows="6" required></textarea>
+                
+                <!-- Bouton d'envoi -->
+                <button type="submit" class="btn-submit">Envoyer</button>
+            </form>
+        </div>
+    </body>
+    <footer>
+        <div class="col">
+            <a href="https://www.get-media.fr">The association</a>
+            <a href="contact.html">Contact us</a>
+            <a href="contact.html">Become a partener</a>
+        </div>
+        <div class="col">
+            <a href="calendar.html">Calendar</a>
+            <a href="php/teams.php">All teams</a>
+        </div>
+    </footer>
+</html>

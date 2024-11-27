@@ -56,4 +56,15 @@
             ?>
         </section>
     </body>
+    <footer>
+        <div class="col">
+            <a href="https://www.get-media.fr">The association</a>
+            <a href="contact.html">Contact us</a>
+            <a href="contact.html">Become a partener</a>
+        </div>
+        <div class="col">
+            <a href="calendar.html">Calendar</a>
+            <a href="php/teams.php">All teams</a>
+        </div>
+    </footer>
 </html>

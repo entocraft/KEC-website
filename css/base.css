@@ -6,7 +6,6 @@
 }
 
 header{
-    scroll-snap-align: start;
     height: 80vh;
     background-image: url(../imgs/header.jpg);
 
@@ -64,8 +63,7 @@ body {
     color: #ffffff;
 }
 
-section {
-    scroll-snap-align: start;
+section{
     min-height: 100vh;
 }
 
@@ -283,4 +281,22 @@ img {
     height: 4vw;
     width: auto;
     margin: 2vw;
+}
+
+footer{
+    background-color: #1B1B1B;
+    display: flex;
+    flex-direction: row;
+    padding: 4vw;
+}
+
+footer a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
 }

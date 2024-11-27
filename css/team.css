@@ -1,0 +1,57 @@
+/* teams.css */
+
+/* Section principale pour la liste des équipes */
+.teams-section {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Formulaire de sélection du pays */
+.country-select-form {
+    margin-bottom: 20px;
+}
+
+/* Style du menu déroulant */
+select {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* Style des éléments d'équipe */
+.team-item {
+    width: 100%;
+    border-bottom: 1px solid #4C4C4C;
+    padding: 15px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+/* Drapeau du pays à côté de chaque équipe */
+.country-flag {
+    width: 50px;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Titre de l'équipe */
+.team-item h2 {
+    font-size: 24px;
+    color: #00A99D;
+    margin-bottom: 10px;
+}
+
+/* Texte du manager et numéros de kart */
+.team-item p {
+    font-size: 16px;
+    color: #ffffff;
+}
+
+/* Mettre en gras les labels comme "Manager" et "Numéros de kart" */
+.team-item p strong {
+    font-weight: bold;
+}

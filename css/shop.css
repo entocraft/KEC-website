@@ -1,0 +1,91 @@
+.categories {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+    background-color: #2B2B2B;
+}
+
+.category {
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    color: #ffffff;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.category:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    background-color: #00A99D;
+    color: #2B2B2B;
+}
+
+.shop-items {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Grille adaptative */
+    gap: 20px;
+    padding: 20px;
+    justify-items: center; /* Centre les cartes dans leur cellule */
+}
+
+/* Carte de produit */
+.shop-card {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: 5px solid #4c4c4c;
+    border-right: 5px solid #4c4c4c;
+    border-bottom: 5px solid #4c4c4c;
+    width: 250px; /* Taille fixe pour toutes les cartes */
+    height: 350px; /* Hauteur fixe */
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column; /* Disposition verticale */
+    justify-content: space-between; /* Équilibre des éléments dans la carte */
+    align-items: center; /* Centre les éléments horizontalement */
+    transition: 0.5s, color 0.5s;
+}
+
+.shop-card:hover{
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+    border-top: 5px solid #00A99D;
+    border-right: 5px solid #00A99D;
+    border-bottom: 5px solid #00A99D;
+}
+
+/* Images des produits */
+.shop-card img {
+    height: 10vw; /* Conserver les proportions */
+    width: auto; /* Images de largeur uniforme */
+    max-height: 150px; /* Limiter la hauteur pour éviter des images disproportionnées */
+    object-fit: contain; /* Ajuste l'image sans la déformer */
+    margin-bottom: 1vw;
+}
+
+/* Nom et prix du produit */
+.shop-card h2 {
+    color: #00A99D;
+    font-size: 18px;
+    margin: 1vw 0;
+}
+
+.shop-card .price {
+    font-size: 16px;
+    color: #6c6c6c;
+    margin: 10px 0;
+}
+
+/* Bouton Acheter */
+.shop-card .buy-button {
+    background: #00A99D;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.shop-card .buy-button:hover {
+    background: #00A99D;
+}

@@ -1,0 +1,21 @@
+body{
+    background-color: #2B2B2B;
+    font-family: "Krona One", serif;
+    color: #ffffff;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 2vw;
+}
+
+input, textarea{
+    border: none;
+    padding: 1vw;
+    border-radius: 10px;
+}
+
+textarea{
+    resize: none;
+}

@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Password Required"
+AuthUserFile /Applications/XAMPP/htdocs/KEC_website/admin/.htpasswd
+AuthGroupFile /Applications/XAMPP/htdocs/KEC_website/admin/group
+Require valid-user

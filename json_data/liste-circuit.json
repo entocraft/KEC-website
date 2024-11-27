@@ -1,71 +1,327 @@
 {
-    "PT" : {  
-        "Localisation" : "Portugal,_Algarve,_Monchique",
-        "Taille" : "1600m",
-        "Virage" : "13",
-        "chemin_image" : "../imgs/pays/cicuit/PT.png"
-    },
-
-    "SP" : {  
-        "Localisation" : "Espagne,_Asturies,_Llanera",
-        "Taille" : "1800m",
-        "Virage" : "16",
-        "chemin_image" : "../imgs/pays/circuit/SP.png"
-    },
-
-    "FR" : {  
-        "Localisation" : "France,_Occitanie,_Muret",
-        "Taille" : "2140m",
-        "Virage" : "23",
-        "chemin_image" : "../imgs/pays/circuit/FR.png"
-    },
-
-    "IT" : {  
-        "Localisation" : "Italie,_Campanie,_Sano",
-        "Taille" : "1660m",
-        "Virage" : "11",
-        "chemin_image" : "../imgs/pays/circuit/IT.png"
-    },
-
-    "AU" : {  
-        "Localisation" : "Autriche,_Styrie,_Greinbach",
-        "Taille" : "1450m",
-        "Virage" : "17",
-        "chemin_image" : "../imgs/pays/circuit/AU.png"
-    },
-
-    "GE" : {  
-        "Localisation" : "Allemagne,_Brandebourg,_Niedergörsdorf",
-        "Taille" : "1340m",
-        "Virage" : "19",
-        "chemin_image" : "../imgs/pays/circuit/GE.png"
-    },
-
-    "BE" : {  
-        "Localisation" : "Belgique,_Limbourg,_Genk",
-        "Taille" : "1366m",
-        "Virage" : "15",
-        "chemin_image" : "../imgs/pays/circuit/BE.png"
-    },
-
-    "NE" : {  
-        "Localisation" : "Pays-Bas,_Flevoland,_Lelystad",
-        "Taille" : "720m",
-        "Virage" : "14",
-        "chemin_image" : "../imgs/pays/circuit/NE.png"
-    },
-
-    "SW" : {  
-        "Localisation" : "Suede,_Dalécarlie,_Rättvik",
-        "Taille" : "1240m",
-        "Virage" : "18",
-        "chemin_image" : "../imgs/pays/circuit/SW.png"
-    },
-
-    "FI" : {  
-        "Localisation" : "Finlande,_Uusimaa,_Vantaa",
-        "Taille" : "1345m",
-        "Virage" : "12 ",
-        "chemin_image" : "../imgs/pays/circuit/FI.png"
+    "Courses" : {
+        "PT": {
+            "Localisation": "Portugal,_Algarve,_Monchique",
+            "Taille": "1600m",
+            "Virage": "13",
+            "chemin_image": "../imgs/pays/cicuit/PT.png",
+            "Nom": "12 hours of Portugal",
+            "Drapeau": "../imgs/flags/portugal.png",
+            "Prix_de_base": 45,
+            "place": {
+                "VIP Zone Race Start": {
+                    "Description": "Accès exclusif au gradin principal avec vue sur la ligne de départ, sièges rembourrés, accès au lounge VIP avec boissons et snacks inclus.",
+                    "Prix": {
+                        "Un jour": "150€",
+                        "Deux jours": "250€"
+                    },
+                    "Icônes": ["Seat", "Bar", "Pit", "Simu"]
+                },
+                "Tribune Nord": {
+                    "Description": "Gradin confortable avec une vue panoramique sur les virages nord, idéal pour les passionnés de vitesse.",
+                    "Prix": {
+                        "Un jour": "90€",
+                        "Deux jours": "160€"
+                    },
+                    "Icônes": ["Seat", "Screen"]
+                },
+                "Tribune Sud": {
+                    "Description": "Gradin situé près des virages techniques, parfait pour observer les manœuvres des pilotes.",
+                    "Prix": {
+                        "Un jour": "85€",
+                        "Deux jours": "150€"
+                    },
+                    "Icônes": ["Seat"]
+                },
+                "Pelouse Est": {
+                    "Description": "Zone économique en plein air avec vue dégagée sur la ligne droite principale, apportez votre propre chaise ou couverture.",
+                    "Prix": {
+                        "Un jour": "50€",
+                        "Deux jours": "80€"
+                    },
+                    "Icônes": ["Screen"]
+                },
+                "Pelouse Ouest": {
+                    "Description": "Zone en plein air proche des stands, idéale pour les amateurs souhaitant être près de l'action.",
+                    "Prix": {
+                        "Un jour": "45€",
+                        "Deux jours": "70€"
+                    },
+                    "Icônes": ["Screen"]
+                }
+            }
+        },
+        "SP": {
+            "Localisation": "Espagne,_Asturies,_Llanera",
+            "Taille": "1800m",
+            "Virage": "16",
+            "chemin_image": "../imgs/pays/circuit/SP.png",
+            "Nom": "12 hourse of spain'",
+            "Drapeau": "../imgs/flags/espagne.png",
+            "Prix_de_base": 60,
+            "place": {
+                "VIP Zone Race Start": {
+                    "Description": "Gradin principal offrant une vue directe sur la ligne de départ et arrivée, avec accès au lounge premium.",
+                    "Prix": {
+                        "Un jour": "170€",
+                        "Deux jours": "280€"
+                    },
+                    "Icônes": ["Seat", "Bar", "Pit"]
+                },
+                "Tribune Centrale": {
+                    "Description": "Vue équilibrée sur l'ensemble du circuit depuis un gradin situé au centre.",
+                    "Prix": {
+                        "Un jour": "100€",
+                        "Deux jours": "180€"
+                    },
+                    "Icônes": ["Seat", "Screen"]
+                },
+                "Pelouse Sud": {
+                    "Description": "Zone économique située à proximité des zones spectaculaires.",
+                    "Prix": {
+                        "Un jour": "60€",
+                        "Deux jours": "100€"
+                    },
+                    "Icônes": ["Screen"]
+                }
+            }
+        },
+        "FR": {
+            "Localisation": "France,_Occitanie,_Muret",
+            "Taille": "2140m",
+            "Virage": "23",
+            "chemin_image": "../imgs/pays/circuit/FR.png",
+            "Nom": "12 hourse of France'",
+            "Drapeau": "../imgs/flags/france.png",
+            "Prix_de_base": 70,
+            "place": {
+                "VIP Zone Race Start": {
+                    "Description": "Accès VIP avec sièges premium, restauration incluse et accès privilégié au paddock.",
+                    "Prix": {
+                        "Un jour": "200€",
+                        "Deux jours": "350€"
+                    },
+                    "Icônes": ["Seat", "Bar", "Pit", "Simu"]
+                },
+                "Tribune Est": {
+                    "Description": "Gradin offrant une vue imprenable sur la ligne droite principale.",
+                    "Prix": {
+                        "Un jour": "120€",
+                        "Deux jours": "220€"
+                    },
+                    "Icônes": ["Seat", "Screen"]
+                },
+                "Pelouse Centrale": {
+                    "Description": "Zone populaire offrant une vue dégagée sur les sections clés du circuit.",
+                    "Prix": {
+                        "Un jour": "70€",
+                        "Deux jours": "120€"
+                    },
+                    "Icônes": ["Screen"]
+                }
+            }
+        },
+        "IT": {
+            "Localisation": "Italie,_Campanie,_Sano",
+            "Taille": "1660m",
+            "Virage": "11",
+            "chemin_image": "../imgs/pays/circuit/IT.png",
+            "Nom": "12 hourse of Italy'",
+            "Drapeau": "../imgs/flags/italie.png",
+            "Prix_de_base": 60,
+            "place": {
+                "VIP Zone": {
+                    "Description": "Zone VIP avec restauration et accès exclusif au paddock.",
+                    "Prix": {
+                        "Un jour": "180€",
+                        "Deux jours": "300€"
+                    },
+                    "Icônes": ["Seat", "Bar", "Pit"]
+                },
+                "Tribune Sud": {
+                    "Description": "Vue sur les virages techniques avec Screen.",
+                    "Prix": {
+                        "Un jour": "95€",
+                        "Deux jours": "160€"
+                    },
+                    "Icônes": ["Seat", "Screen"]
+                },
+                "Pelouse Libre": {
+                    "Description": "Place économique en zone pelouse, parfait pour un pique-nique.",
+                    "Prix": {
+                        "Un jour": "60€",
+                        "Deux jours": "100€"
+                    },
+                    "Icônes": ["Screen"]
+                }
+            }
+        },
+        "AU": {
+            "Localisation": "Autriche,_Styrie,_Greinbach",
+            "Taille": "1450m",
+            "Virage": "17",
+            "chemin_image": "../imgs/pays/circuit/AU.png",
+            "Nom": "12 hourse of Austria'",
+            "Drapeau": "../imgs/flags/autriche.png",
+            "Prix_de_base": 50,
+            "place": {
+                "VIP Zone": {
+                    "Description": "Accès premium avec snacks, boissons et pit walk.",
+                    "Prix": {
+                        "Un jour": "200€",
+                        "Deux jours": "300€"
+                    },
+                    "Icônes": ["Seat", "Bar", "Pit", "Simu"]
+                },
+                "Tribune Centrale": {
+                    "Description": "Gradin avec vue panoramique sur les principaux points d'action.",
+                    "Prix": {
+                        "Un jour": "100€",
+                        "Deux jours": "180€"
+                    },
+                    "Icônes": ["Seat", "Screen"]
+                },
+                "Pelouse Nord": {
+                    "Description": "Zone libre avec vue dégagée, idéal pour les groupes.",
+                    "Prix": {
+                        "Un jour": "50€",
+                        "Deux jours": "90€"
+                    },
+                    "Icônes": ["Screen"]
+                }
+            }
+        },
+        "BE": {
+            "Localisation": "Belgique,_Limbourg,_Genk",
+            "Taille": "1366m",
+            "Virage": "15",
+            "chemin_image": "../imgs/pays/circuit/BE.png",
+            "Nom": "12 hourse of Belgium'",
+            "Drapeau": "../imgs/flags/belgique.png",
+            "Prix_de_base": 120,
+            "place": {
+                "VIP Zone": {
+                    "Description": "Zone VIP avec restauration et accès exclusif au paddock.",
+                    "Prix": {
+                        "Un jour": "210€",
+                        "Deux jours": "350€"
+                    },
+                    "Icônes": ["Seat", "Bar", "Pit"]
+                },
+                "Tribune Ouest": {
+                    "Description": "Vue imprenable sur les sections rapides.",
+                    "Prix": {
+                        "Un jour": "120€",
+                        "Deux jours": "200€"
+                    },
+                    "Icônes": ["Seat", "Screen"]
+                }
+            }
+        },
+        "NE": {
+            "Localisation": "Pays-Bas,_Flevoland,_Lelystad",
+            "Taille": "720m",
+            "Virage": "14",
+            "chemin_image": "../imgs/pays/circuit/NE.png",
+            "Nom": "12 hourse of Netherland'",
+            "Drapeau": "../imgs/flags/pays_bas.png",
+            "Prix_de_base": 40,
+            "place": {
+                "VIP Zone": {
+                    "Description": "Accès VIP avec un superbe emplacement au cœur du circuit.",
+                    "Prix": {
+                        "Un jour": "160€",
+                        "Deux jours": "270€"
+                    },
+                    "Icônes": ["Seat", "Bar", "Pit"]
+                },
+                "Tribune Est": {
+                    "Description": "Gradin avec une excellente vue sur les premières sections du circuit.",
+                    "Prix": {
+                        "Un jour": "85€",
+                        "Deux jours": "150€"
+                    },
+                    "Icônes": ["Seat", "Screen"]
+                },
+                "Pelouse Sud": {
+                    "Description": "Place en pelouse près de la ligne droite.",
+                    "Prix": {
+                        "Un jour": "40€",
+                        "Deux jours": "70€"
+                    },
+                    "Icônes": ["Screen"]
+                }
+            }
+        },
+        "SW": {
+            "Localisation": "Suede,_Dalécarlie,_Rättvik",
+            "Taille": "1240m",
+            "Virage": "18",
+            "chemin_image": "../imgs/pays/circuit/SW.png",
+            "Nom": "12 hourse of Sweden'",
+            "Drapeau": "../imgs/flags/suede.png",
+            "Prix_de_base": 55,
+            "place": {
+                "VIP Zone": {
+                    "Description": "Zone premium avec sièges confortables et accès exclusif aux paddocks.",
+                    "Prix": {
+                        "Un jour": "190€",
+                        "Deux jours": "310€"
+                    },
+                    "Icônes": ["Seat", "Bar", "Pit"]
+                },
+                "Tribune Nord": {
+                    "Description": "Vue optimale sur la ligne droite principale.",
+                    "Prix": {
+                        "Un jour": "100€",
+                        "Deux jours": "170€"
+                    },
+                    "Icônes": ["Seat", "Screen"]
+                },
+                "Pelouse Est": {
+                    "Description": "Zone de pelouse avec un excellent point de vue sur les virages.",
+                    "Prix": {
+                        "Un jour": "55€",
+                        "Deux jours": "90€"
+                    },
+                    "Icônes": ["Screen"]
+                }
+            }
+        },
+        "FI": {
+            "Localisation": "Finlande,_Kymenlaakso,_Kouvola",
+            "Taille": "1200m",
+            "Virage": "14",
+            "chemin_image": "../imgs/pays/circuit/FI.png",
+            "Nom": "12 hourse of Finland'",
+            "Drapeau": "../imgs/flags/finlande.png",
+            "Prix_de_base": 50,
+            "place": {
+                "VIP Zone": {
+                    "Description": "Accès exclusif à la zone VIP avec sièges confortables et services premium.",
+                    "Prix": {
+                        "Un jour": "180€",
+                        "Deux jours": "300€"
+                    },
+                    "Icônes": ["Seat", "Bar", "Pit", "Simu"]
+                },
+                "Tribune Ouest": {
+                    "Description": "Vue idéale sur les virages techniques et la ligne droite.",
+                    "Prix": {
+                        "Un jour": "90€",
+                        "Deux jours": "150€"
+                    },
+                    "Icônes": ["Seat", "Screen"]
+                },
+                "Pelouse Est": {
+                    "Description": "Zone en pelouse proche des virages rapides.",
+                    "Prix": {
+                        "Un jour": "50€",
+                        "Deux jours": "80€"
+                    },
+                    "Icônes": ["Screen"]
+                }
+            }
+        }
     }
 }

@@ -3,38 +3,43 @@
 
         "PT" : {
             "PS&A-ADVOGADOS" : {
+                "Equipe" : "PS&A-ADVOGADOS",
                 "Pays" : "Portugal",
                 "Chemin_logo" : "../imgs/equipe/PS&A-ADVOGADOS.png",
                 "Numéro_de_kart" : [8],
                 "Description" : "Equipe portugaise qui se constitue de 4 personnes ayant un niveau pro ",
-                "Manager" : "SOARES_PEDRO"
+                "Manager" : "SOARES PEDRO"
             },
 
             "Track_Limits_Sport" : {
+                "Equipe" : "Track Limits Sport",
                 "Pays" : "Portugal",
-                "Chemin_logo" : "../imgs/equipe/Track_Limits_sport.png",
+                "Chemin_logo" : "../imgs/equipe/Track Limits sport.png",
                 "Numéro_de_kart" : [16,18,40],
                 "Description" : "Equipe portugaise qui se constitue de 9 personnes ayant un niveau pro ",
-                "Manager" : "Pires_José"
+                "Manager" : "Pires José"
             },
 
             "Asphalt_Knights" : {
+                "Equipe" : "Asphalt Knights",
                 "Pays" : "Portugal",
-                "Chemin_logo" : "../imgs/equipe/Asphalt_Knights.png",
+                "Chemin_logo" : "../imgs/equipe/Asphalt Knights.png",
                 "Numéro_de_kart" : [4,2,42],
                 "Description" : "Equipe portugaise qui se constitue de 9 personnes ayant un niveau pro ",
-                "Manager" : "Paiva_João_Diogo "
+                "Manager" : "Paiva João Diogo "
             },
 
             "WARM-UP_PRO_RACING_TEAM" : {
+                "Equipe" : "WARM-UP PRO RACING TEAM",
                 "Pays" : "Portugal",
                 "Chemin_logo" : "../imgs/equipe/WARMUP.png",
                 "Numéro_de_kart" : [10,6],
                 "Description" : "Equipe portugaise qui se constitue de 6 personnes ayant un niveau pro ",
-                "Manager" : "Ribeiro_Ricardo"
+                "Manager" : "Ribeiro Ricardo"
             },
 
             "MATRAX_RACING" : {
+                "Equipe" : "MATRAX_RACING",
                 "Pays" : "Portugal",
                 "Chemin_logo" : "../imgs/equipe/MATRAX_RACING.png",
                 "Numéro_de_kart" : [22,12,48],
@@ -43,6 +48,7 @@
             },
 
             "P.R.T." : {
+                "Equipe" : "P.R.T.",
                 "Pays" : "Portugal",
                 "Chemin_logo" : "../imgs/equipe/PRT.png",
                 "Numéro_de_kart" : [28],
@@ -51,6 +57,7 @@
             },
 
             "S-Kart_Clube_by_AuriolSport" : {
+                "Equipe" : "S-Kart_Clube_by_AuriolSport",
                 "Pays" : "Portugal",
                 "Chemin_logo" : "../imgs/equipe/SKC.png",
                 "Numéro_de_kart" : [14,30,34],
@@ -59,6 +66,7 @@
             },
 
             "TYRESONLINE" : {
+                "Equipe" : "TYRESONLINE",
                 "Pays" : "Portugal",
                 "Chemin_logo" : "../imgs/equipe/TYRESONLINE.png",
                 "Numéro_de_kart" : [32,26,38],
@@ -67,6 +75,7 @@
             },
 
             "Kmed_Europa_Endurance" : {
+                "Equipe" : "Kmed_Europa_Endurance",
                 "Pays" : "Portugal",
                 "Chemin_logo" : "../imgs/equipe/KMED.png",
                 "Numéro_de_kart" : [24,20],
@@ -75,6 +84,7 @@
             },
 
             "Racing_Aces" : {
+                "Equipe" : "Racing_Aces",
                 "Pays" : "Portugal",
                 "Chemin_logo" : "../imgs/equipe/Racing_Aces.png",
                 "Numéro_de_kart" : [36,44,46],
@@ -93,6 +103,7 @@
 
         "SP" : {
             "CREATIA_ENDURANCE_TEAM" : {
+                "Equipe" : "CREATIA_ENDURANCE_TEAM",
                 "Pays" : "Espagne",
                 "Chemin_logo" : "../imgs/equipe/Creatia.png",
                 "Numéro_de_kart" : [1,21,47],
@@ -101,6 +112,7 @@
             },
             
             "Endurance_Racing_Team" : {
+                "Equipe" : "Endurance_Racing_Team",
                 "Pays" : "Espagne",
                 "Chemin_logo" : "../imgs/equipe/ERT.png",
                 "Numéro_de_kart" : [3,23],
@@ -109,6 +121,7 @@
             },
 
             "EQUIP_OPEN-ERT" : {
+                "Equipe" : "EQUIP_OPEN-ERT",
                 "Pays" : "Espagne",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [5],
@@ -117,6 +130,7 @@
             },
 
             "LMKC_Endurance" : {
+                "Equipe" : "LMKC_Endurance",
                 "Pays" : "Espagne",
                 "Chemin_logo" : "../imgs/equipe/LMKc_endurance.png" ,
                 "Numéro_de_kart" : [7,25],
@@ -125,6 +139,7 @@
             },
 
             "RODEX" : {
+                "Equipe" : "RODEX",
                 "Pays" : "Espagne",
                 "Chemin_logo" : "../imgs/equipe/RODEX.png",
                 "Numéro_de_kart" : [9,27,49],
@@ -133,6 +148,7 @@
             },
 
             "Astur_Celta_Racing_Team" : {
+                "Equipe" : "Astur_Celta_Racing_Team",
                 "Pays" : "Espagne",
                 "Chemin_logo" : "../imgs/equipe/ACRT.png",
                 "Numéro_de_kart" : [11,31],
@@ -141,6 +157,7 @@
             },
 
             "Escueladekart.com" : {
+                "Equipe" : "Escueladekart.com",
                 "Pays" : "Espagne",
                 "Chemin_logo" : "../imgs/equipe/Escueladekart.png",
                 "Numéro_de_kart" : [13,33],
@@ -149,6 +166,7 @@
             },
 
             "JaramaFan_Racing" : {
+                "Equipe" : "JaramaFan_Racing",
                 "Pays" : "Espagne",
                 "Chemin_logo" : "../imgs/equipe/JaramaFan_Racing.png",
                 "Numéro_de_kart" : [15,35,41],
@@ -157,6 +175,7 @@
             },
 
             "Hispano_Alemán_Racing_Team" : {
+                "Equipe" : "Hispano_Alemán_Racing_Team",
                 "Pays" : "Espagne",
                 "Chemin_logo" : "../imgs/equipe/HART.png",
                 "Numéro_de_kart" : [17,37,43],
@@ -165,6 +184,7 @@
             },
 
             "CKM_RENOVE" : {
+                "Equipe" : "CKM_RENOVE",
                 "Pays" : "Espagne",
                 "Chemin_logo" : "../imgs/equipe/CKm_renove.png",
                 "Numéro_de_kart" : [19,39,45],
@@ -182,82 +202,92 @@
 
 
         "FR" : {    
-            "Nogezm" : {
+            "Pyrene" : {
+                "Equipe" : "Pyrene Racing Team",
                 "Pays" : "France",
-                "Chemin logo" : "../imgs/equipe/",
-                "Numéro de kart" : [],
-                "Description" : "",
-                "Manager" : ""
+                "Chemin_logo" : "../imgs/equipe/isard.png",
+                 "Numéro_de_kart" : [3,10,31],
+                "Description" : "Equipe française officielle de la KEC",
+                "Manager" : "Entony EVENO--COSTA"
             },
 
             "Nogm" : {
+                "Equipe" : "Nogm",
                 "Pays" : "France",
-                "Chemin logo" : "../imgs/equipe/",
-                "Numéro de kart" : [],
+                "Chemin_logo" : "../imgs/equipe/",
+                 "Numéro_de_kart" : [],
                 "Description" : "",
                 "Manager" : ""
             },
 
             "Nomg" : {
+                "Equipe" : "Nomg",
                 "Pays" : "France",
-                "Chemin logo" : "../imgs/equipe/",
-                "Numéro de kart" : [],
+                "Chemin_logo" : "../imgs/equipe/",
+                 "Numéro_de_kart" : [],
                 "Description" : "",
                 "Manager" : ""
             },
 
             "Nog(m" : {
+                "Equipe" : "Nog(m",
                 "Pays" : "France",
-                "Chemin logo" : "../imgs/equipe/",
-                "Numéro de kart" : [],
+                "Chemin_logo" : "../imgs/equipe/",
+                 "Numéro_de_kart" : [],
                 "Description" : "",
                 "Manager" : ""
             },
 
             "Nomre" : {
+                "Equipe" : "Nomre",
                 "Pays" : "France",
-                "Chemin logo" : "../imgs/equipe/",
-                "Numéro de kart" : [],
+                "Chemin_logo" : "../imgs/equipe/",
+                 "Numéro_de_kart" : [],
                 "Description" : "",
                 "Manager" : ""
             },
 
             "Noerm" : {
+                "Equipe" : "Noerm",
                 "Pays" : "France",
-                "Chemin logo" : "../imgs/equipe/",
-                "Numéro de kart" : [],
+                "Chemin_logo" : "../imgs/equipe/",
+                 "Numéro_de_kart" : [],
                 "Description" : "",
                 "Manager" : ""
             },
 
             "Nhom" : {
+                "Equipe" : "Nhom",
                 "Pays" : "France",
-                "Chemin logo" : "../imgs/equipe/",
-                "Numéro de kart" : [],
+                "Chemin_logo" : "../imgs/equipe/",
+                 "Numéro_de_kart" : [],
                 "Description" : "",
                 "Manager" : ""
             },
 
             "Nohum" : {
+                "Equipe" : "Nohum",
                 "Pays" : "France",
-                "Chemin logo" : "../imgs/equipe/",
-                "Numéro de kart" : [],
+                "Chemin_logo" : "../imgs/equipe/",
+                 "Numéro_de_kart" : [],
                 "Description" : "",
                 "Manager" : ""
             },
 
             "Nqom" : {
+                "Equipe" : "Nqom",
                 "Pays" : "France",
-                "Chemin logo" : "../imgs/equipe/",
-                "Numéro de kart" : [],
+                "Chemin_logo" : "../imgs/equipe/",
+                 "Numéro_de_kart" : [],
                 "Description" : "",
                 "Manager" : ""
             },
 
             "Nom" : {
+                "Equipe" : "Nom",
                 "Pays" : "France",
-                "Chemin logo" : "../imgs/equipe/",
-                "Numéro de kart" : [],
+                "Chemin_logo" : "../imgs/equipe/",
+                 "Numéro_de_kart" : [],
                 "Description" : "",
                 "Manager" : ""
             }
@@ -272,6 +302,7 @@
 
         "IT" : {
             "PFV" : {
+                "Equipe" : "PFV",
                 "Pays" : "Italie",
                 "Chemin_logo" : "../imgs/equipe/PFV.png",
                 "Numéro_de_kart" : [50,72,92],
@@ -280,6 +311,7 @@
             },
 
             "INFINITY" : {
+                "Equipe" : "INFINITY",
                 "Pays" : "Italie",
                 "Chemin_logo" : "../imgs/equipe/INFINITY.png",
                 "Numéro_de_kart" : [52,74,94],
@@ -288,6 +320,7 @@
             },
 
             "RED_RACING" : {
+                "Equipe" : "RED_RACING",
                 "Pays" : "Italie",
                 "Chemin_logo" : "../imgs/equipe/RR.png",
                 "Numéro_de_kart" : [54,76,96],
@@ -296,6 +329,7 @@
             },
 
             "RED_RACING_SPIRIT" : {
+                "Equipe" : "RED_RACING_SPIRIT",
                 "Pays" : "Italie",
                 "Chemin_logo" : "../imgs/equipe/RRS.png",
                 "Numéro_de_kart" : [56,78,98],
@@ -304,6 +338,7 @@
             },
 
             "SUNLIFE_RACING_TEAM" : {
+                "Equipe" : "SUNLIFE_RACING_TEAM",
                 "Pays" : "Italie",
                 "Chemin_logo" : "../imgs/equipe/SUNLIFE.png",
                 "Numéro_de_kart" : [58,80],
@@ -312,6 +347,7 @@
             },
 
             "DRGM-FAC" : {
+                "Equipe" : "DRGM-FAC",
                 "Pays" : "Italie",
                 "Chemin_logo" : "../imgs/equipe/DRGM.png",
                 "Numéro_de_kart" : [60,82],
@@ -320,6 +356,7 @@
             },
 
             "SMO_Racing_Team" : {
+                "Equipe" : "SMO_Racing_Team",
                 "Pays" : "Italie",
                 "Chemin_logo" : "../imgs/equipe/SMO.png",
                 "Numéro_de_kart" : [62,84],
@@ -328,6 +365,7 @@
             },
 
             "JUST4FUN_RACING_TEAM" : {
+                "Equipe" : "JUST4FUN_RACING_TEAM",
                 "Pays" : "Italie",
                 "Chemin_logo" : "../imgs/equipe/JUST4FUN.png",
                 "Numéro_de_kart" : [64,86],
@@ -336,6 +374,7 @@
             },
 
             "NAC_Team" : {
+                "Equipe" : "NAC_Team",
                 "Pays" : "Italie",
                 "Chemin_logo" : "../imgs/equipe/NAC_team.png",
                 "Numéro_de_kart" : [68,88],
@@ -344,6 +383,7 @@
             },
 
             "Dammuso-Dad&Son" : {
+                "Equipe" : "Dammuso-Dad&Son",
                 "Pays" : "Italie",
                 "Chemin_logo" : "../imgs/equipe/Dammuso.png",
                 "Numéro_de_kart" : [70,90],
@@ -362,6 +402,7 @@
 
         "AU" : {
             "Euroracing_ASD" : {
+                "Equipe" : "Euroracing_ASD",
                 "Pays" : "Autriche",
                 "Chemin_logo" : "../imgs/equipe/ASD.png",
                 "Numéro_de_kart" : [51,71,89],
@@ -370,6 +411,7 @@
             },
 
             "KC_VORTEX" : {
+                "Equipe" : "KC_VORTEX",
                 "Pays" : "Autriche",
                 "Chemin_logo" : "../imgs/equipe/KC_VORTEX.png",
                 "Numéro_de_kart" : [53,73],
@@ -378,6 +420,7 @@
             },
 
             "Kurvenfresser_KRT" : {
+                "Equipe" : "Kurvenfresser_KRT",
                 "Pays" : "Autriche",
                 "Chemin_logo" : "../imgs/equipe/Kurvenfresser_KRT.png",
                 "Numéro_de_kart" : [55,75,91],
@@ -386,6 +429,7 @@
             },
 
             "Wesp_racing_team" : {
+                "Equipe" : "Wesp_racing_team",
                 "Pays" : "Autriche",
                 "Chemin_logo" : "../imgs/equipe/WESP.png",
                 "Numéro_de_kart" : [57,77,93],
@@ -394,6 +438,7 @@
             },
 
             "Rubblemaster_Racing_Team" : {
+                "Equipe" : "Rubblemaster_Racing_Team",
                 "Pays" : "Autriche",
                 "Chemin_logo" : "../imgs/equipe/Rubblemaster.png",
                 "Numéro_de_kart" : [59,79],
@@ -402,6 +447,7 @@
             },
 
             "Pontigoner_Racers" : {
+                "Equipe" : "Pontigoner_Racers",
                 "Pays" : "Autriche",
                 "Chemin_logo" : "../imgs/equipe/Pontigoner.png",
                 "Numéro_de_kart" : [61,81,95],
@@ -410,6 +456,7 @@
             },
 
             "Porsche_RT" : {
+                "Equipe" : "Porsche_RT",
                 "Pays" : "Autriche",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [63],
@@ -418,6 +465,7 @@
             },
 
             "MSC_GREEN_PHOENIX" : {
+                "Equipe" : "MSC_GREEN_PHOENIX",
                 "Pays" : "Autriche",
                 "Chemin_logo" : "../imgs/equipe/MSC.png",
                 "Numéro_de_kart" : [65,83,97],
@@ -426,6 +474,7 @@
             },
 
             "Racecraft_Academy" : {
+                "Equipe" : "Racecraft_Academy",
                 "Pays" : "Autriche",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [67,85 ],
@@ -434,6 +483,7 @@
             },
 
             "Güllmanns_1" : {
+                "Equipe" : "Güllmanns_1",
                 "Pays" : "Autriche",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [69,87],
@@ -452,6 +502,7 @@
 
         "GE" : {
             "Kart_Team_Wittlich" : {
+                "Equipe" : "Kart_Team_Wittlich",
                 "Pays" : "Allemagne",
                 "Chemin_logo" : "../imgs/equipe/KTW.png",
                 "Numéro_de_kart" : [1,15],
@@ -460,6 +511,7 @@
             },
 
             "PF_Racing" : {
+                "Equipe" : "PF_Racing",
                 "Pays" : "Allemagne",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [11,25,34],
@@ -468,6 +520,7 @@
             },
 
             "KRS-Green_Competition" : {
+                "Equipe" : "KRS-Green_Competition",
                 "Pays" : "Allemagne",
                 "Chemin_logo" : "../imgs/equipe/KRS.png",
                 "Numéro_de_kart" : [21,5,50],
@@ -476,6 +529,7 @@
             },
 
             "Cockpit-Kartarena_RT" : {
+                "Equipe" : "Cockpit-Kartarena_RT",
                 "Pays" : "Allemagne",
                 "Chemin_logo" : "../imgs/equipe/Cockpit-Kartarena_RT.png",
                 "Numéro_de_kart" : [31,45],
@@ -484,6 +538,7 @@
             },
 
             "Team_TKR" : {
+                "Equipe" : "Team_TKR",
                 "Pays" : "Allemagne",
                 "Chemin_logo" : "../imgs/equipe/TKR.png",
                 "Numéro_de_kart" : [41,85,8],
@@ -492,6 +547,7 @@
             },
 
             "1UP_Cool_Runners" : {
+                "Equipe" : "1UP_Cool_Runners",
                 "Pays" : "Allemagne",
                 "Chemin_logo" : "../imgs/equipe/1UP_Cool_Runners.png",
                 "Numéro_de_kart" : [51,75],
@@ -500,6 +556,7 @@
             },
 
             "NoFear_by_KRS" : {
+                "Equipe" : "NoFear_by_KRS",
                 "Pays" : "Allemagne",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [61,65],
@@ -508,6 +565,7 @@
             },
 
             "Underground_Racing_by_CKA" : {
+                "Equipe" : "Underground_Racing_by_CKA",
                 "Pays" : "Allemagne",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [71,95],
@@ -516,6 +574,7 @@
             },
 
             "DBR_Racing_Germany" : {
+                "Equipe" : "DBR_Racing_Germany",
                 "Pays" : "Allemagne",
                 "Chemin_logo" : "../imgs/equipe/DBR.png",
                 "Numéro_de_kart" : [81,55],
@@ -525,6 +584,7 @@
 
 
             "Kartclub-NRW_by_BMW_Riedel" : {
+                "Equipe" : "Kartclub-NRW_by_BMW_Riedel",
                 "Pays" : "Allemagne",
                 "Chemin_logo" : "../imgs/equipe/Kartclub-NRW.png",
                 "Numéro_de_kart" : [91,15,88],
@@ -542,6 +602,7 @@
 
         "BE" : {
             "Modave_Racing" : {
+                "Equipe" : "Modave_Racing",
                 "Pays" : "Belgique",
                 "Chemin_logo" : "../imgs/equipe/modave_racing.png",
                 "Numéro_de_kart" : [2,50],
@@ -551,6 +612,7 @@
             },
 
             "BlueStar_Racing_Team" : {
+                "Equipe" : "BlueStar_Racing_Team",
                 "Pays" : "Belgique",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [3,16,25],
@@ -560,6 +622,7 @@
             },
 
             "KMRS_by_SKOF" : {
+                "Equipe" : "KMRS_by_SKOF",
                 "Pays" : "Belgique",
                 "Chemin_logo" : "../imgs/equipe/KMRS_by_SKOF.png",
                 "Numéro_de_kart" : [4,17,15],
@@ -569,6 +632,7 @@
             },
 
             "KMRS_RACING" : {
+                "Equipe" : "KMRS_RACING",
                 "Pays" : "Belgique",
                 "Chemin_logo" : "../imgs/equipe/KRMS_Racing.png",
                 "Numéro_de_kart" : [5,18,14],
@@ -578,6 +642,7 @@
             },
 
             "JYN-Sports_1" : {
+                "Equipe" : "JYN-Sports_1",
                 "Pays" : "Belgique",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [6,19],
@@ -587,6 +652,7 @@
             },
 
             "Acuity_racing_1" : {
+                "Equipe" : "Acuity_racing_1",
                 "Pays" : "Belgique",
                 "Chemin_logo" : "../imgs/equipe/Acuity_racing.png",
                 "Numéro_de_kart" : [7,70],
@@ -596,6 +662,7 @@
             },
 
             "B.R.T-Belgium_Racing_Team" : {
+                "Equipe" : "B.R.T-Belgium_Racing_Team",
                 "Pays" : "Belgique",
                 "Chemin_logo" : "../imgs/equipe/BRT.png",
                 "Numéro_de_kart" : [8,60],
@@ -605,6 +672,7 @@
             },
 
             "Hola_Lulu_Racing" : {
+                "Equipe" : "Hola_Lulu_Racing",
                 "Pays" : "Belgique",
                 "Chemin_logo" : "../imgs/equipe/Hola_Lulu_Racing.png",
                 "Numéro_de_kart" : [9,20],
@@ -614,6 +682,7 @@
             },
 
             "BF_Motorsport_by_JMB_Matrassen" : {
+                "Equipe" : "BF_Motorsport_by_JMB_Matrassen",
                 "Pays" : "Belgique",
                 "Chemin_logo" : "../imgs/equipe/BF_motorsport.png",
                 "Numéro_de_kart" : [10,21,24 ],
@@ -623,6 +692,7 @@
             },
 
             "Panthaa_Racing_by_Jovatechnics" : {
+                "Equipe" : "Panthaa_Racing_by_Jovatechnics",
                 "Pays" : "Belgique",
                 "Chemin_logo" : "../imgs/equipe/Panthaa_racing.png",
                 "Numéro_de_kart" : [11,42],
@@ -641,6 +711,7 @@
 
         "NE" : {
             "SKOF_by_KMRS" : {
+                "Equipe" : "SKOF_by_KMRS",
                 "Pays" : "Pays_Bas",
                 "Chemin_logo" : "../imgs/equipe/SKOF_by_KMRS.png",
                 "Numéro_de_kart" : [99,88,77,18],
@@ -649,6 +720,7 @@
             },
 
             "Friendly_Competition" : {
+                "Equipe" : "Friendly_Competition",
                 "Pays" : "Pays_Bas",
                 "Chemin_logo" : "../imgs/equipe/Friendly_Competition.png",
                 "Numéro_de_kart" : [66,55,80],
@@ -657,6 +729,7 @@
             },
 
             "KWM_Racing" : {
+                "Equipe" : "KWM_Racing",
                 "Pays" : "Pays_Bas",
                 "Chemin_logo" : "../imgs/equipe/KWM.png",
                 "Numéro_de_kart" : [44,43],
@@ -665,6 +738,7 @@
             },
 
             "apex_racing_team_1" : {
+                "Equipe" : "apex_racing_team_1",
                 "Pays" : "Pays_Bas",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [33,67],
@@ -673,6 +747,7 @@
             },
 
             "RTJ_Racing" : {
+                "Equipe" : "RTJ_Racing",
                 "Pays" : "Pays_Bas",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [22,35],
@@ -681,6 +756,7 @@
             },
 
             "Camber_MotorSport" : {
+                "Equipe" : "Camber_MotorSport",
                 "Pays" : "Pays_Bas",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [11,23],
@@ -689,6 +765,7 @@
             },
 
             "Den_Hartog_Racing" : {
+                "Equipe" : "Den_Hartog_Racing",
                 "Pays" : "Pays_Bas",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [4,84],
@@ -697,6 +774,7 @@
             },
 
             "RGXC_Racing" : {
+                "Equipe" : "RGXC_Racing",
                 "Pays" : "Pays_Bas",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [29,5],
@@ -705,6 +783,7 @@
             },
 
             "SALARI_RT" : {
+                "Equipe" : "SALARI_RT",
                 "Pays" : "Pays_Bas",
                 "Chemin_logo" : "../imgs/equipe/SALARI_RT.png",
                 "Numéro_de_kart" : [36,12],
@@ -713,6 +792,7 @@
             },
 
             "Unfriendly_Competition" : {
+                "Equipe" : "Unfriendly_Competition",
                 "Pays" : "Pays_Bas",
                 "Chemin_logo" : "../imgs/equipe/Unfriendly_Competition.png",
                 "Numéro_de_kart" : [57,31,69],
@@ -731,6 +811,7 @@
 
         "SW" : {
             "Celeste_Digital_Racing" : {
+                "Equipe" : "Celeste_Digital_Racing",
                 "Pays" : "Suede",
                 "Chemin_logo" : "../imgs/equipe/CDR.png",
                 "Numéro_de_kart" : [1,9,17],
@@ -739,6 +820,7 @@
             },
 
             "Kong_Strong_Racing_Team" : {
+                "Equipe" : "Kong_Strong_Racing_Team",
                 "Pays" : "Suede",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [2,10,18,24],
@@ -747,6 +829,7 @@
             },
 
             "VOKER" : {
+                "Equipe" : "VOKER",
                 "Pays" : "Suede",
                 "Chemin_logo" : "../imgs/equipe/VOKER.png",
                 "Numéro_de_kart" : [3,11,19],
@@ -755,6 +838,7 @@
             },
 
             "VMD_Down_Racing" : {
+                "Equipe" : "VMD_Down_Racing",
                 "Pays" : "Suede",
                 "Chemin_logo" : "../imgs/equipe/VMD.png",
                 "Numéro_de_kart" : [4,12],
@@ -763,6 +847,7 @@
             },
 
             "Trocadero_AVANTI_Racing_w/_Mr" : {
+                "Equipe" : "Trocadero_AVANTI_Racing_w/_Mr",
                 "Pays" : "Suede",
                 "Chemin_logo" : "../imgs/equipe/AVANTI.png",
                 "Numéro_de_kart" : [5,13],
@@ -771,6 +856,7 @@
             },
 
             "Snail_Slugs" : {
+                "Equipe" : "Snail_Slugs",
                 "Pays" : "Suede",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [6,14],
@@ -779,6 +865,7 @@
             },
 
             "Road_To_Glory" : {
+                "Equipe" : "Road_To_Glory",
                 "Pays" : "Suede",
                 "Chemin_logo" : "../imgs/equipe/RTD.png",
                 "Numéro_de_kart" : [7,15,20,22],
@@ -787,6 +874,7 @@
             },
 
             "Team_Ek_Motorsport" : {
+                "Equipe" : "Team_Ek_Motorsport",
                 "Pays" : "Suede",
                 "Chemin_logo" : "../imgs/equipe/Ek_Motorsport.png",
                 "Numéro_de_kart" : [8,16,21,23],
@@ -805,6 +893,7 @@
 
         "FI" : {
             "KIC_Driver_Academy" : {
+                "Equipe" : "KIC_Driver_Academy",
                 "Pays" : "Finlande",
                 "Chemin_logo" : "../imgs/equipe/KIC.png",
                 "Numéro_de_kart" : [25,35,44],
@@ -813,6 +902,7 @@
             },
 
             "KKWCS" : {
+                "Equipe" : "KKWCS",
                 "Pays" : "Finlande",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [26,36,45],
@@ -821,6 +911,7 @@
             },
 
             "JetStream" : {
+                "Equipe" : "JetStream",
                 "Pays" : "Finlande",
                 "Chemin_logo" : "../imgs/equipe/JetStream.png",
                 "Numéro_de_kart" : [27],
@@ -829,6 +920,7 @@
             },
 
             "V-Team" : {
+                "Equipe" : "V-Team",
                 "Pays" : "Finlande",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [28,37,46],
@@ -837,6 +929,7 @@
             },
 
             "777RR_MOTORSPORT" : {
+                "Equipe" : "777RR_MOTORSPORT",
                 "Pays" : "Finlande",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [29,38,48],
@@ -845,6 +938,7 @@
             },
 
             "M.Y._Racing" : {
+                "Equipe" : "M.Y._Racing",
                 "Pays" : "Finlande",
                 "Chemin_logo" : "../imgs/equipe/M.Y._Racing.png",
                 "Numéro_de_kart" : [30,39,47],
@@ -853,6 +947,7 @@
             },
 
             "KIC_Turku_RED" : {
+                "Equipe" : "KIC_Turku_RED",
                 "Pays" : "Finlande",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [31,40],
@@ -861,6 +956,7 @@
             },
 
             "Captain_Slow_(V-Racing_2)" : {
+                "Equipe" : "Captain_Slow_(V-Racing_2)",
                 "Pays" : "Finlande",
                 "Chemin_logo" : "../imgs/equipe/unknow.png",
                 "Numéro_de_kart" : [32,41],
@@ -869,6 +965,7 @@
             },
 
             "NANO_Racing_Team" : {
+                "Equipe" : "NANO_Racing_Team",
                 "Pays" : "Finlande",
                 "Chemin_logo" : "../imgs/equipe/NANO.png",
                 "Numéro_de_kart" : [33],
@@ -877,6 +974,7 @@
             },
 
             "NRG_MAXIMUS" : {
+                "Equipe" : "NRG_MAXIMUS",
                 "Pays" : "Finlande",
                 "Chemin_logo" : "../imgs/equipe/NRG.png",
                 "Numéro_de_kart" : [34,42,43],

@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+/* Structure générale du ticket */
+.ticket-item {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 1100px;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+/* Mise en page du résumé de la course */
+.ticket-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+.ticket-flag {
+    width: 50px;
+    height: auto;
+    margin-right: 15px; /* Espacement entre le drapeau et le nom de la course */
+}
+
+.ticket-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-right: auto; /* Pour éviter un espacement trop grand à droite */
+}
+
+.ticket-icons {
+    display: none; /* Masquer les icônes dans le résumé */
+}
+
+.ticket-price {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-right: 10px;
+}
+
+.details-button {
+    font-family: "Krona One", serif;
+    background-color: #00A99D;
+    font-size: medium;
+    font-weight: bolder;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.details-button:hover {
+    background-color: #00A99D;
+}
+
+/* Section des détails qui s'affiche au clic */
+.ticket-details {
+    margin-top: 20px;
+    display: none;
+}
+
+.day-card {
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 2px solid #ffffff;
+}
+
+.day-card:hover {
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 2px solid #00A99D;
+}
+
+.day-card h4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.day-card p {
+    font-size: 16px;
+    color: #7f8c8d;
+}
+
+.day-price {
+    font-size: 18px;
+    font-weight: bold;
+    color: #27ae60;
+}
+
+.ticket-details .place-icon {
+    width: 25px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
