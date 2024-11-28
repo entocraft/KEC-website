@@ -36,7 +36,7 @@
             <ul>
                 <li><a href="../index.html"><img src="../imgs/kec_logo.png" alt="Logo"></a></li>
                 <li><a href="../calendar.html">CALENDAR</a></li>
-                <li><a href="../newsroom.html">NEWSROOM</a></li>
+                <li><a href="newsroom.php">NEWSROOM</a></li>
                 <li><a href="ticketing.php">TICKETING</a></li>
                 <li><a href="shop.php">SHOP</a></li>
             </ul>

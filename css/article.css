@@ -1,0 +1,119 @@
+/* Styles généraux */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    line-height: 1.6;
+}
+
+/* Conteneur principal */
+.container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* Titre principal */
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    color: #f3f3f3;
+    text-align: center;
+}
+
+/* Date de publication */
+p em {
+    display: block;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #6c757d;
+    margin-bottom: 20px;
+}
+
+/* Image pleine largeur */
+.full-width-image img {
+    width: 100vw;
+    height: auto;
+    display: block;
+    margin: 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Contenu de l'article */
+.content {
+    margin-top: 20px;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #ffffff;
+}
+
+/* Liens dans le texte */
+.content a {
+    color: #007BFF;
+    text-decoration: none;
+    border-bottom: 1px solid #007BFF;
+    transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+.content a:hover {
+    color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Message d'erreur */
+.error {
+    text-align: center;
+    padding: 20px;
+    background: #ffeded;
+    color: #d32f2f;
+    border: 1px solid #f5c2c2;
+    border-radius: 10px;
+    margin: 30px auto;
+    max-width: 600px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.error h1 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.error p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+/* Lien retour */
+.back-link {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007BFF;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.back-link:hover {
+    background-color: #0056b3;
+}
+
+/* Styles responsives */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    .container {
+        padding: 15px;
+    }
+
+    .content {
+        font-size: 1rem;
+    }
+}
